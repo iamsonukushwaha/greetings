@@ -5,6 +5,8 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  border-radius: 50%;
+  padding-top: 10px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -25,7 +27,13 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: blue;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.App-link:hover {
+  text-decoration: underline;
 }
 
 @keyframes App-logo-spin {
