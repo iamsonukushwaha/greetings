@@ -9,7 +9,7 @@ const MyLink = () => (
         <a className='App-link' href='https://singlebucks.blogspot.com/' rel="noreferrer" target='_blank'>https://singlebucks.blogspot.com</a>
         <br />
         <br />
-        <a className='App-link' href='https://github.com/flyingsonu122' rel="noreferrer" target='_blank'>https://github.com/flyingsonu122</a>
+        <a className='App-link' href='https://github.com/iamsonukushwaha' rel="noreferrer" target='_blank'>https://github.com/iamsonukushwaha</a>
         <br />
     </React.Fragment>
 )
